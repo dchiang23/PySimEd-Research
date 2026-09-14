@@ -1,4 +1,3 @@
-# PySimEd-Research
 # PySimEd Research
 
 Research software development conducted under Professor Barry Lawson as part of the PySimEd project.
